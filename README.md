@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-crypto786
+- 👋 Hi, I’m Noor Nabi
 - 👀 I’m interested in Javascript frameworks
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on 
