@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noor Nabi
 - 👀 I’m interested in Javascript frameworks
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working on Angular and react js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me? on Linkdin !
 
